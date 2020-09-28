@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_title_err">No Title Found</string>
+    <string name="advisory_rating">Advisory Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="duration">Duration:</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="casts">Casts:</string>
+    <string name="view_seatmap">VIEW SEATMAP</string>
+    <string name="selected_seats">Selected Seats:</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="selected">Selected</string>
+    <string name="available">Available</string>
+    <string name="reserved">Reserved</string>
+    <string name="cinema">Cinema</string>
+</resources>

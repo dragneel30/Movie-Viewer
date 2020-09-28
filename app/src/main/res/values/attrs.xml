@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SeatSetView">
+
+        <attr name="seatSize" format="dimension" />
+        <attr name="labelSize" format="dimension" />
+
+
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f142b</color>
+    <color name="colorPrimaryDark">#0f142b</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textMain">#ffffff</color>
+    <color name="cardBackgound">#1a2240</color>
+    <color name="rating">#FFCC00</color>
+    <color name="button">#00aeff</color>
+    <color name="seatAvailable">#2b4f89</color>
+    <color name="seatReserved">#8ea7f6</color>
+    <color name="seatSelected">#006eff</color>
+    <color name="optionUnselected">#1e2747</color>
+    <color name="optionSelected">#00aeff</color>
+</resources>
